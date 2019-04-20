@@ -11,19 +11,41 @@
 
 ## 效果介绍
  - 行情
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190420090558742.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9lYXN0bW9vbi5ibG9nLmNzZG4ubmV0,size_16,color_FFFFFF,t_70 =200x360)
+ <p align="center">
+	<img src="https://img-blog.csdnimg.cn/20190420090558742.png" alt="行情"  width="300" height="460">
+	<p align="center">
+<!-- 		<em>行情</em> -->
+	</p>
+
 该页面主要是链克的产量和链克的一些排行榜
 
  - 账号
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190420090623751.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9lYXN0bW9vbi5ibG9nLmNzZG4ubmV0,size_16,color_FFFFFF,t_70 =200x360)
+<p align="center">
+	<img src="https://img-blog.csdnimg.cn/20190420090623751.png" alt="账号"  width="300" height="460">
+	<p align="center">
+<!-- 		<em>账号</em> -->
+	</p>
+
 展示所有添加的账号的详情，包括添加账号功能，删除账号，提取链克等功能
+
  - 链克
- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190420090633374.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9lYXN0bW9vbi5ibG9nLmNzZG4ubmV0,size_16,color_FFFFFF,t_70 =200x360)
+ <p align="center">
+	<img src="https://img-blog.csdnimg.cn/20190420090633374.png" alt="链克"  width="300" height="460">
+	<p align="center">
+<!-- 		<em>链克</em> -->
+	</p>
+
 显示近期和全部链克产量，并显示近7天的趋势图
 
  - 我的
+ <p align="center">
+	<img src="https://img-blog.csdnimg.cn/20190420090652607.png" alt="我的"  width="300" height="460">
+	<p align="center">
+<!-- 		<em>我的</em> -->
+	</p>
+
 主要是绑定邮箱，关于我们，退出登录等功能
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190420090652607.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9lYXN0bW9vbi5ibG9nLmNzZG4ubmV0,size_16,color_FFFFFF,t_70 =200x360)
+
  - 登录注册
 当然少不了登录注册的功能，这里就不贴图了
 
